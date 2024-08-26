@@ -83,6 +83,7 @@ p {
     margin-top: 10px;
     font-weight: 100%;
     flex-direction: column;
+    max-width: 800px;
     
     
     
